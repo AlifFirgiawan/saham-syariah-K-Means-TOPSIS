@@ -37,10 +37,3 @@ dashboard/
 | Elbow & Clustering | Grafik Metode Elbow + slider interaktif jumlah cluster (k) + scatter plot |
 | Simulasi Bobot TOPSIS | Perbandingan ranking dengan bobot Entropy vs bobot kustom pengguna |
 | Detail Saham | Profil lengkap satu emiten (radar chart rasio fundamental) |
-
-## Deploy ke Streamlit Community Cloud (opsional, untuk sidang)
-
-1. Push folder ini ke repository GitHub (public atau private).
-2. Buka [share.streamlit.io](https://share.streamlit.io), hubungkan ke repo tersebut.
-3. Pilih `app.py` sebagai entry point, klik Deploy.
-4. Kamu akan mendapat link publik yang bisa dibagikan ke dosen penguji.
