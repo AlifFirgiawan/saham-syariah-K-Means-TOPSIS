@@ -32,8 +32,6 @@ dashboard/
 
 | Halaman | Isi |
 |---|---|
-| Beranda | Ringkasan penelitian dan panduan penggunaan |
-| Data Saham | Tabel data + filter & pencarian emiten berdasarkan rentang kriteria |
+| Beranda | Tabel data + filter & pencarian emiten berdasarkan rentang kriteria |
 | Elbow & Clustering | Grafik Metode Elbow + slider interaktif jumlah cluster (k) + scatter plot |
-| Simulasi Bobot TOPSIS | Perbandingan ranking dengan bobot Entropy vs bobot kustom pengguna |
-| Detail Saham | Profil lengkap satu emiten (radar chart rasio fundamental) |
+| Entropy & TOPSIS | Perbandingan ranking dengan bobot Entropy vs bobot kustom pengguna |
